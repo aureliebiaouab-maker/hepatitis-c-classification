@@ -53,7 +53,7 @@ Reviewing my first version taught me as much as building it:
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/hepatitis-c-classification.git
+git clone https://github.com/<aureliebiaouab-maker>/hepatitis-c-classification.git
 cd hepatitis-c-classification
 pip install -r requirements.txt
 jupyter notebook hepatitis_c_classification.ipynb
